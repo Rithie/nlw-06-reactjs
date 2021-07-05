@@ -67,3 +67,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)
+
+https://www.notion.so/Material-para-as-aulas-eb0804e137154e7e8c31d56dea8af99b
